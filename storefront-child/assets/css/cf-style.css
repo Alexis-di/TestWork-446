@@ -1,0 +1,33 @@
+
+.cf_box {
+    display: flex;
+    flex-direction: colomn;
+    padding: 10px;
+}
+
+.box__container {
+    display: flex;
+    justify-content: center;
+}
+.meta-options {
+    width: 180px;
+    padding: 10px 20px;
+}
+.cf_box {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cf_published_date, .cf_type {
+    display: block;
+}
+
+.cf_buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.cf_button {
+    margin: 5px;
+}
